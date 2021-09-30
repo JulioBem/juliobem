@@ -34,7 +34,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-<br/>
+<!--<br/>
 
 ## 📊 My Github Stats
 
@@ -42,10 +42,10 @@
     <a href="https://github.com/JulioBem/github-readme-stats"><img alt="Júlio Bem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JulioBem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/JulioBem/github-readme-stats"><img alt="Júlio Bem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioBem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <br/>
-
+<hr>
 <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/cdfdffb4537c27f3a09c2e0bddd6495414437c4e/github-contribution-grid-snake.svg"/>
 <br/>
 <br/>
