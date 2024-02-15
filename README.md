@@ -10,13 +10,13 @@
 
 - 🏡 Living in **Recife/PE**.
 
-- 💻 Graduating in **Information Systems** (Ends in December / 2023).
+- 💻 Currently working as a Frontend Developer! 
+
+- 🏫 Graduating in **Information Systems** (Ends in December / 2025).
 
 - 📫 How to reach me **juliocsbem@gmail.com**.
 
 - 👨‍💻 I'm also on **[Linkedin](https://www.linkedin.com/in/juliobem/)**.
-
-- ⚡ Fun fact: **I'm always into playing some fun games!**
 
 <br />
 
